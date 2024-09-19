@@ -61,7 +61,7 @@ namespace InstitutoServices.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a https://datainstituto.azurewebsites.net/api/.
+        ///   Busca una cadena traducida similar a https://instituto-fabi.azurewebsites.net/api/.
         /// </summary>
         internal static string UrlApi {
             get {
